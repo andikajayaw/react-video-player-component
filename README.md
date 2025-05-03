@@ -1,6 +1,7 @@
 # Video Player Application
 
 This project consists of a React + TypeScript frontend with a custom canvas-based video player and a Node.js backend for video streaming.
+
 Installation guide: https://drive.google.com/file/d/19hq3VL_l_QJ52lap9X5T1ntSuEboDARE/view?usp=sharing
 
 ## Features
